@@ -113,7 +113,7 @@ const ronit = {
   <img src="https://img.shields.io/badge/Gmail-ronitagrawal9921-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+<a href="https://www.linkedin.com/in/ronit-agrawal-b99313308/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
@@ -123,9 +123,6 @@ const ronit = {
 
 <br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Ronit178693&style=flat-square&color=a78bfa&label=Profile+Views)
-
-<br/>
 
 *"I don't just learn technologies — I build with them."*
 
