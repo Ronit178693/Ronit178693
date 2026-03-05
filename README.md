@@ -90,16 +90,16 @@ const ronit = {
 
 ### `> github --stats`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ronitagrawal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=e0d7ff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitagrawal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e0d7ff&layout=compact" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ronit178693&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=e0d7ff&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit178693&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e0d7ff&layout=compact" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ronitagrawal&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FF6B35&currStreakLabel=e0d7ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ronit178693&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FF6B35&currStreakLabel=e0d7ff" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronitagrawal&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=22d3ee&point=FF6B35&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ronit178693&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=22d3ee&point=FF6B35&hide_border=true" />
 
 </div>
 
@@ -117,13 +117,13 @@ const ronit = {
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
 &nbsp;
-<a href="https://github.com/ronitagrawal">
-  <img src="https://img.shields.io/badge/GitHub-@ronitagrawal-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+<a href="https://github.com/Ronit178693">
+  <img src="https://img.shields.io/badge/GitHub-@Ronit178693-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
 <br/><br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ronitagrawal&style=flat-square&color=a78bfa&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Ronit178693&style=flat-square&color=a78bfa&label=Profile+Views)
 
 <br/>
 
