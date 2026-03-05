@@ -19,7 +19,7 @@ const ronit = {
   university  : "Bennett University — B.Tech CSE (2024–2028)",
   identity    : "I build full-stack products that work in production, not just localhost",
   superpower  : "Turning complex systems into clean, maintainable code",
-  funFact     : "I engineered a 6-state FSM for a food delivery app before my 1st year ended",
+  funFact     : "I engineered a 6-state FSM for a food delivery app before my 2nd year ended",
 };
 ```
 
