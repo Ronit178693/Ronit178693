@@ -90,9 +90,6 @@ const ronit = {
 
 ### `> github --stats`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ronit178693&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=e0d7ff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit178693&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e0d7ff&layout=compact" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ronit178693&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=FF6B35&currStreakLabel=e0d7ff" />
